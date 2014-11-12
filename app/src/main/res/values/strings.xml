@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send_address_book">sendAddressBook</string>
+    <string name="title_activity_confirmation_page">confirmationPage</string>
+
+</resources>
